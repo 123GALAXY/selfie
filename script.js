@@ -12,5 +12,11 @@ recognition.onresult=function (event){
     }
 }
 function speak(){
-
+Webcam.attach("#d2");
 }
+Webcam.set({
+width:360,
+height:300,
+image_format:'jpeg',
+jpeg_quality:100
+});
