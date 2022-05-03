@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: #a3a3a3;
+}
+#title{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    
+}
+#img1{
+    border-radius: 50%;
+    width: 130px;
+    height:140px;
+    margin-top: 5px;
+}
+#p1{
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    color: #dbdbdb;
+}
+#p2{
+font-size: 40px;
+font-family: 'Indie Flower', cursive;
+}
+#p3{
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+#ta1{
+    width: 500px;
+    height:100px;
+}
+#b1{
+    height: 50px;
+    width: 100px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    font-size:20px ;
+    background-color:#5a5a5a ;
+    color:#dbdbdb ;
+}
+#p4{
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+#p5{
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bolder;
+}
+#p6{
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
